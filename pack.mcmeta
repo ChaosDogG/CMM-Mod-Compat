@@ -1,6 +1,10 @@
 {
    "pack": {
-      "pack_format": 15,
+      "pack_format": 48,
+    "supported_formats": [
+      15,
+      48
+    ],
       "description": "CMM With Mod Compat"
    }
 }
