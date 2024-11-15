@@ -5,6 +5,8 @@
 
 This pack aims to make fixes to textures/models that are misaligned within other mods that either pull the models/textures of vanilla mobs that are altered with the CMM pack. A list of the mods includes:
 
+[DISCLAIMER]: Any textures that are take, derived, or modified from any of the listed mods are under the same lisence as the parent
+
 - [Applied Energistics 2](https://www.curseforge.com/projects/223794)
 - [Ars Nouveau](https://modrinth.com/mod/TKB6INcv)
 - [Chefs Delight](https://www.curseforge.com/projects/832983)
