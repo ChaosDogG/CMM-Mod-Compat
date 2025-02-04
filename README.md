@@ -5,7 +5,7 @@
 
 This pack aims to make fixes to textures/models that are misaligned within other mods that either pull the models/textures of vanilla mobs that are altered with the CMM pack. A list of the mods includes:
 
-[DISCLAIMER]: Any textures that are take, derived, or modified from any of the listed mods are under the same lisence as the parent
+[DISCLAIMER]: Any textures that are taken, derived, or modified from any of the listed mods are under the same lisence as the parent
 
 - [Applied Energistics 2](https://www.curseforge.com/projects/223794)
 - [Ars Nouveau](https://modrinth.com/mod/TKB6INcv)
@@ -23,6 +23,9 @@ This pack aims to make fixes to textures/models that are misaligned within other
 - [Quark](https://www.curseforge.com/projects/243121)
 - [Universal Sawmill](https://www.curseforge.com/projects/964817)
 - [VillagersPlus](https://www.curseforge.com/projects/817272)
+- [AE2 Better Villagers](https://www.curseforge.com/minecraft/mc-mods/ae2-better-villagers)
+- [Create Better Villagers](https://www.curseforge.com/minecraft/mc-mods/ae2-better-villagers)
+- [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice)
 
 [Credits]
 
