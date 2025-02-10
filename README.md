@@ -31,6 +31,7 @@ This pack aims to make fixes to textures/models that are misaligned within other
 - [Pneumaticcraft Repressurized
 ](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
 - [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology)
+  
 [Credits]
 
 - [YarrMatey's Cute Mob Models Mod for 1.12.2](https://legacy.curseforge.com/minecraft/mc-mods/yarr-cute-mob-models-remake)
