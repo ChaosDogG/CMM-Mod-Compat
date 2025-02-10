@@ -26,6 +26,7 @@ This pack aims to make fixes to textures/models that are misaligned within other
 - [AE2 Better Villagers](https://www.curseforge.com/minecraft/mc-mods/ae2-better-villagers)
 - [Create Better Villagers](https://www.curseforge.com/minecraft/mc-mods/ae2-better-villagers)
 - [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice)
+- [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 
 [Credits]
 
