@@ -27,7 +27,10 @@ This pack aims to make fixes to textures/models that are misaligned within other
 - [Create Better Villagers](https://www.curseforge.com/minecraft/mc-mods/ae2-better-villagers)
 - [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice)
 - [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
-
+- [Rats](https://www.curseforge.com/minecraft/mc-mods/rats)
+- [Pneumaticcraft Repressurized
+](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology)
 [Credits]
 
 - [YarrMatey's Cute Mob Models Mod for 1.12.2](https://legacy.curseforge.com/minecraft/mc-mods/yarr-cute-mob-models-remake)
