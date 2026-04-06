@@ -34,8 +34,8 @@ This pack aims to make fixes to textures/models that are misaligned within other
 [Credits]
 
 - [YarrMatey's Cute Mob Models Mod for 1.12.2](https://legacy.curseforge.com/minecraft/mc-mods/yarr-cute-mob-models-remake)
-- [Emmie_4, Rokuyon, Tommanex, NGFuji.mp4, Minedollcat, and Rabbotic (former) for the CMM Resourcepack from versions 1.12.2 to 1.21.1](https://www.curseforge.com/minecraft/texture-packs/cute-mob-models-resource-pack)
+- [Emmie_4, Rokuyon, Tommanex, NGFuji.mp4 (former), Minedollcat, and Rabbotic (former) for the CMM Resourcepack from versions 1.12.2 to 1.21.1](https://www.curseforge.com/minecraft/texture-packs/cute-mob-models-resource-pack)
 - [Rokuyon for the CMM Hobby/Test Pack for versions 1.20.1 to 1.21.1](https://www.curseforge.com/minecraft/texture-packs/cmmrp-test-and-hobby)
-- [billyp673 for work on the Icon, Terracube and Villagers](https://twitch.tv/billyp673)
+- [billyp673 for work on the old Icon and variety of various entity textures](https://twitch.tv/billyp673)
 
 The list of mods picked at and credited users who helped make this project a reality will be updated as time goes on!
