@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9bb20db-8d54-4336-bae8-57c6d405f3a9" name="Changes" comment="" />
+    <list default="true" id="a9bb20db-8d54-4336-bae8-57c6d405f3a9" name="Changes" comment="pushed 1.20 textures to 1.21">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;1.21.1&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a9bb20db-8d54-4336-bae8-57c6d405f3a9" name="Changes" comment="" />
@@ -51,6 +54,68 @@
       <option name="presentableId" value="Default" />
       <updated>1777332882883</updated>
     </task>
+    <task id="LOCAL-00001" summary="pushed 1.20 textures to 1.21">
+      <option name="closed" value="true" />
+      <created>1781225184616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781225184616</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pushed 1.20 textures to 1.21">
+      <option name="closed" value="true" />
+      <created>1781225264557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781225264557</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pushed 1.20 textures to 1.21">
+      <option name="closed" value="true" />
+      <created>1781225265438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1781225265438</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pushed 1.20 textures to 1.21">
+      <option name="closed" value="true" />
+      <created>1781225265614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1781225265614</updated>
+    </task>
+    <task id="LOCAL-00005" summary="pushed 1.20 textures to 1.21">
+      <option name="closed" value="true" />
+      <created>1781225265803</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1781225265803</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pushed 1.20 textures to 1.21">
+      <option name="closed" value="true" />
+      <created>1781225266435</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1781225266435</updated>
+    </task>
+    <task id="LOCAL-00007" summary="pushed 1.20 textures to 1.21">
+      <option name="closed" value="true" />
+      <created>1781225338484</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1781225338484</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactored" />
+    <MESSAGE value="pushed 1.20 textures to 1.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushed 1.20 textures to 1.21" />
   </component>
 </project>
